@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'MatchaCih';
+  src: url('../fonts/MatchaCih.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  margin: 0;
+  justify-content: center;
+  align-items: center;
+  background-color: #91C499;
+  height: 100vh;
+}
+
+.box {
+  align-content: center;
+  font-family: 'MatchaCih';
+  font-size: 100px;
+  color: #3f4b3b;
+}
